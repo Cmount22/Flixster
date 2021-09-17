@@ -28,8 +28,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="FlixWalkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-
+Computer ran slow due to Android Emulater. Details in videos need to be more clear, such as when classes need to be imported and "SAY" when and what classes, packages, etc. when maneuvering and entering code. 
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
